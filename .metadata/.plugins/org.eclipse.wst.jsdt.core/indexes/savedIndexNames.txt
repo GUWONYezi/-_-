@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\sist1226\oneProject\stbGame\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1905475809.index
+720814037.index
+210699759.index
+1186907015.index
+854774790.index
+536290604.index
